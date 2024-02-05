@@ -38,3 +38,6 @@ For example, I want to navigate to my Apps directory in Desktop.
 Let's say, you still don't have the directory you want to work with. We can use `mkdir <directory name>` command to make new directory in the working directory we are currently.
 Then, use `cd <directory name>` again to navigate to the new directory.
 ![Open profile (6)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/aedb40d6-d7ef-44d1-b002-0d476a111349)
+
+Now, you have succesfully navigate and created a new directory using terminal!
+![Open profile (7)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/681e4536-de6f-4a0b-bbe7-f534797e1f2a)
