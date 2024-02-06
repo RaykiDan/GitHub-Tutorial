@@ -33,3 +33,18 @@ In order to make GitHub-Tutorial directoy as a git repository, we need to initia
 ### 5. Add The File(s) To The Working Tree and Commit
 Type `git add README.md` to add the README file into the working tree. You can also use `git add .` which will add all directories and files in the working directory into the working tree.
 Then, type `git commit -m "First commit"` to add description on your commit upon these files.
+![Open profile (11)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/2c6182ce-377c-46a0-9d09-1456f5594df0)
+
+Tips: If you feel your terminal start to piled up with commands, try to type `clear` command to clear/erase all the previous entered commands. Don't worry, if you want to check what commands have you entered previosly, you can still check it with `history` command.
+
+### 6. Create A Branch and Add Remote URL of GitHub Repository
+Type `git branch -M main` to create new branch with the name "main". And type `git remote add origin <GitHub URL>` to add the GitHub URL we have copied before as remote URL.
+![Open profile (12)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/005ef6dc-a8b4-4f5d-8681-fc4447e10ba7)
+
+### 7. Push The File(s) To GitHub Repository
+Type `git push -u main` to push the files in working tree to the GitHub repository branch main. The terminal will then ask your username and password, fill in the username but fill in the password with a token you have created before.
+![Open profile (13)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/33f812b7-5db7-4b71-bffa-ed159c699e48)
+
+### 8. Your File Has Been Uploaded!
+Now, you can check your GitHub repository.
+![Open profile (14)](https://github.com/RaykiDan/GitHub-Tutorial/assets/90367128/d8e4ae7c-2b3b-42e0-af23-39e2aa771ee2)
